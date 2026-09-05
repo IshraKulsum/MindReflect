@@ -1,0 +1,6 @@
+{
+  "name": "MindReflect - AI Journal & Reflection",
+  "description": "User-authenticated personal journaling and multi-turn reflection powered by Gemini and Cloud Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
